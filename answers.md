@@ -4,7 +4,11 @@ Answer 1: git version 2.17.1
 Answer 2:git config --global user.name "Your name"
 git config --global user.email "Your email"
 Answer 3: When I use the command "git add --help" the help systems gives me a list of common git commands. Also says why and how these commands are used.
+<<<<<<< HEAD
  Answer 4: This was the output following the command "git status". On branch master
+=======
+Answer 4: This was the output following the command "git status". On branch master
+>>>>>>> 1a013c5a638be78325869a44f62db27b3d5dedc2
 
 No commits yet
 
@@ -21,6 +25,12 @@ Answer 8:My output of the log has no hash value and the author say Your name and
 Answer 9: My new status of my repo is that it is up to date with nothing to commit.
 Answer 10: My changes made on either side of github seemed to reflect to the other side. However it seems a little slow and doesn't update very quickly.
 Answer 11: When I enter in the "git push" command again it trys to get me to log into my github again...
+Answer 12: The changes I made online were put onto my local answer's and readme file
+Answer 13: When issuing the command in the new repo i see 6 files: . .. .git .gitignore and README.md.
+Done
+<<<<<<< HEAD
 
 
 
+=======
+>>>>>>> 1a013c5a638be78325869a44f62db27b3d5dedc2
