@@ -5,9 +5,7 @@ Answer 2:git config --global user.name "Your name"
 git config --global user.email "Your email"
 Answer 3: When I use the command "git add --help" the help systems gives me a list of common git commands. Also says why and how these commands are used.
 Answer 4: This was the output following the command "git status". On branch master
-
 No commits yet
-
 Untracked files:
   (use "git add <file>..." to include in what will be committed)
 
